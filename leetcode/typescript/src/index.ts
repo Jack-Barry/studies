@@ -1,0 +1,1 @@
+/** Placeholder `.ts` file to appease TS compiler */
